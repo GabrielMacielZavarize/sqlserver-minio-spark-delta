@@ -1,0 +1,21 @@
+cd_fornecedor,nm_fornecedor,nr_cnpj_cpf,ds_tipo
+1,Posto Copacabana Combustiveis Ltda,12.345.678/0001-90,Pessoa Juridica
+2,Restaurante Sabor Brasilia Ltda,23.456.789/0001-01,Pessoa Juridica
+3,LATAM Airlines Brasil S.A.,02.012.862/0001-60,Pessoa Juridica
+4,Gol Linhas Aereas Inteligentes S.A.,06.164.253/0001-87,Pessoa Juridica
+5,Localiza Rent a Car S.A.,16.670.085/0001-55,Pessoa Juridica
+6,Unidas Locadora S.A.,06.082.980/0001-03,Pessoa Juridica
+7,Hotel Nacional Brasilia Ltda,34.567.890/0001-12,Pessoa Juridica
+8,Claro S.A.,40.432.544/0001-47,Pessoa Juridica
+9,TIM S.A.,02.421.421/0001-11,Pessoa Juridica
+10,Vivo Telefonica Brasil S.A.,02.558.157/0001-62,Pessoa Juridica
+11,Lanchonete do Congresso ME,45.678.901/0001-23,Pessoa Juridica
+12,Empresa Brasileira de Correios e Telegrafos,34.028.316/0001-03,Pessoa Juridica
+13,Grafica Parlamentar Ltda,56.789.012/0001-34,Pessoa Juridica
+14,Auto Posto BR Ltda,67.890.123/0001-45,Pessoa Juridica
+15,Churrascaria do Planalto Ltda,78.901.234/0001-56,Pessoa Juridica
+16,Azul Linhas Aereas Brasileiras S.A.,09.296.295/0001-60,Pessoa Juridica
+17,Hotel Diplomat Brasilia Ltda,89.012.345/0001-67,Pessoa Juridica
+18,Antonio Carlos Pereira da Silva,123.456.789-00,Pessoa Fisica
+19,Supermercado Meridional Ltda,90.123.456/0001-78,Pessoa Juridica
+20,Oi Movel S.A.,05.423.963/0001-11,Pessoa Juridica
