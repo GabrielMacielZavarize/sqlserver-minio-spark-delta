@@ -5,8 +5,16 @@ Projeto desenvolvido para a disciplina de Engenharia de Dados. Implementa um pip
 ## Visão Geral
 
 ```
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/184f93c3-269f-4d24-afc4-47533ec338eb" />
-
+┌─────────────────┐     ┌──────────────────┐     ┌───────────────────┐
+│   SQL Server    │────▶│   MinIO (S3)     │────▶│   MinIO (S3)      │
+│   2025 Dev      │     │   landing-zone/  │     │   bronze/         │
+│                 │     │   (CSVs)         │     │   (Delta Tables)  │
+│  ParlamentarDB  │     │                  │     │                   │
+│   5 tabelas     │     │   1 CSV/tabela   │     │   INSERT/UPDATE   │
+│                 │     │                  │     │   DELETE/HISTORY  │
+└─────────────────┘     └──────────────────┘     └───────────────────┘
+     Notebook 00             Notebook 01            Notebooks 02/03
+     (Setup)                 (Extração)             (Delta + DML)
 ```
 
 ## Fonte dos Dados
